@@ -108,24 +108,11 @@ align-items: center;
 justify-content: center;
 }
 
-.hero-link:hover {
-  border: 3px solid green;
-  box-shadow: 5px 5px 7px 10px red;
-.icon {
-fill: cyan;
-}
-}
 
 
-.icon{
-  width: 50px;
-  height: 50px;
-  fill: blue;
-}
 
-.hero-icon:hover{
-  fill: red;
-}
+
+
 
 
 .hero-item:nth-child(2) > .hero-img {
